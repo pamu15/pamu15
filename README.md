@@ -1,7 +1,7 @@
 # Hey! Nice to see you.
 I'm **Pramod Haladkar** 😀  
 
-I have strong technical experience and interest in:
+I have strong technical knowledge and interest in:
 
 - Machine Learning  
 - Deep Learning (ANN, CNN, RNN – LSTM, GRU)  
