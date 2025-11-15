@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey! Nice to see you.
+I'm **Pramod Haladkar** 😀  
 
-<!--
-**pamu15/pamu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong technical experience and interest in:
 
-Here are some ideas to get you started:
+- Machine Learning  
+- Deep Learning (ANN, CNN, RNN – LSTM, GRU)  
+- Data Cleaning & Preprocessing  
+- Data Visualization (Power BI, Excel)  
+- Database Systems (MySQL)  
+- Model Deployment (Basic Flask Apps)  
+- Exploratory Data Analysis (EDA)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools  
+python | sql | numpy | pandas | matplotlib | seaborn | scikit_learn | tensorflow | keras | mysql | powerbi | excel | git | vscode | jupyter | googlecolab  
+
+---
+
+## 📚 My Projects  
+
+### 🩺 Medical Chatbot  
+Built using Python, TensorFlow & SQL  
+Achieved **85% accuracy** in condition prediction  
+
+### 📉 Customer Churn Prediction  
+Random Forest model with **91% accuracy**  
+Dashboard built using Flask + MySQL  
+
+### 📂 Student Assignment Submission Portal  
+CRUD-based system using Python + MySQL + HTML/CSS/JS  
+
+---
+
+## 💼 Certifications  
+- Oracle Cloud Infrastructure Data Science – Oracle  
+- AWS Machine Learning Foundations – AWS Academy  
+- Data Science Bootcamp – GeeksforGeeks  
+
+---
+
+## 🎯 My Hobbies & Interests  
+- Traveling  
+- Coding  
+- Music  
+- Learning new technologies  
+
+---
+
+## 🔗 You can also find me on  
+
+**LinkedIn:** https://www.linkedin.com/in/pramodhaladkar  
+**GitHub:** https://github.com/pamu15  
+**Email:** pamuhaladkar15@gmail.com  
