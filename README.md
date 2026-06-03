@@ -45,7 +45,8 @@ Built with: Python · TensorFlow · MySQL
 ### 📍 Pune Job Tracker Pulse
 Real-time job market tracker for Pune city. Tracks and visualizes live job listings across roles, companies, and locations with interactive trend analysis.
 Built with: Python · Pandas · Streamlit
-🔗 [GitHub](https://github.com/pamu15/Pune-Job-Market-Pulse)(https://pune-job-market-pulse-ipqbvag7ndxnnx3afwhzca.streamlit.app/)
+
+🔗 [GitHub](https://github.com/pamu15/Pune-Job-Market-Pulse)[Live App](https://pune-job-market-pulse-ipqbvag7ndxnnx3afwhzca.streamlit.app/)
 ---
 
 ## 💼 Certifications
