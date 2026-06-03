@@ -1,55 +1,66 @@
-# Hey! Nice to see you.
-I'm **Pramod Haladkar** 😀  
+# Hey! Nice to see you 👋
+### I'm Pramod Haladkar
 
-I have strong technical knowledge and interest in:
-
-- Machine Learning  
-- Deep Learning (ANN, CNN, RNN – LSTM, GRU)  
-- Data Cleaning & Preprocessing  
-- Data Visualization (Power BI, Excel)  
-- Database Systems (MySQL)  
-- Model Deployment (Basic Flask Apps)  
-- Exploratory Data Analysis (EDA)  
+A passionate developer with strong interest in Machine Learning, Data Science, and building real-world applications that solve practical problems.
 
 ---
 
-## 🛠️ Languages and Tools  
-python | sql | numpy | pandas | matplotlib | seaborn | scikit_learn | tensorflow | keras | mysql | powerbi | excel | git | vscode | jupyter | googlecolab  
+## 🧠 Skills & Interests
+
+- Machine Learning & Predictive Modeling
+- Deep Learning (ANN, CNN, RNN – LSTM, GRU)
+- Data Cleaning, Preprocessing & EDA
+- Data Visualization (Power BI, Excel)
+- Database Systems (MySQL)
+- Model Deployment (Streamlit, Flask)
 
 ---
 
-## 📚 My Projects  
+## 🛠️ Languages & Tools
 
-### 🩺 Medical Chatbot  
-Built using Python, TensorFlow & SQL  
-Achieved **85% accuracy** in condition prediction  
-
-### 📉 Customer Churn Prediction  
-Random Forest model with **91% accuracy**  
-Dashboard built using Flask + MySQL  
-
-### 📂 Student Assignment Submission Portal  
-CRUD-based system using Python + MySQL + HTML/CSS/JS  
+Python · SQL · NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · MySQL · Power BI · Excel · Git · VS Code · Streamlit · Jupyter · Google Colab
 
 ---
 
-## 💼 Certifications  
-- Oracle Cloud Infrastructure Data Science – Oracle  
-- AWS Machine Learning Foundations – AWS Academy  
-- Data Science Bootcamp – GeeksforGeeks  
+## 📂 Featured Projects
+
+### 🏛️ Smart Civic Analytics — CiviQ Que
+ML-powered queue management system for government offices. Predicts citizen wait times, issues virtual tokens, sends SMS alerts via Twilio, and handles missed token recovery with smart queue placement logic.
+Built with: Python · Streamlit · XGBoost · Random Forest · Twilio
+🔗 [Live App](https://smart-civiq-analytics-hruhonyqqvcjt99dft9nde.streamlit.app/) · [GitHub](https://github.com/pamu15/Smart-Civiq-Analytics)
 
 ---
 
-## 🎯 My Hobbies & Interests  
-- Traveling  
-- Coding  
-- Music  
-- Learning new technologies  
+### 🩺 Medical Chatbot
+Symptom-based condition predictor achieving 85% accuracy. Takes user symptoms as input and predicts possible medical conditions using a trained deep learning model.
+Built with: Python · TensorFlow · MySQL
+🔗 [GitHub](https://github.com/pamu15)
 
 ---
 
-## 🔗 You can also find me on  
+### 📍 Pune Job Tracker Pulse
+Real-time job market tracker for Pune city. Tracks and visualizes live job listings across roles, companies, and locations with interactive trend analysis.
+Built with: Python · Pandas · Streamlit
+🔗 [GitHub]()
+https://pune-job-market-pulse-ipqbvag7ndxnnx3afwhzca.streamlit.app/
+---
 
-**LinkedIn:** https://www.linkedin.com/in/pramodhaladkar  
-**GitHub:** https://github.com/pamu15  
-**Email:** pamuhaladkar15@gmail.com  
+## 💼 Certifications
+
+- Oracle Cloud Infrastructure Data Science — Oracle
+- AWS Machine Learning Foundations — AWS Academy
+- Data Science Bootcamp — GeeksforGeeks
+
+---
+
+## 🎯 Hobbies & Interests
+
+Traveling · Coding · Music · Learning new technologies
+
+---
+
+## 🔗 Find Me Online
+
+- **LinkedIn:** https://www.linkedin.com/in/pramodhaladkar
+- **GitHub:** https://github.com/pamu15
+- **Email:** pamuhaladkar15@gmail.com
