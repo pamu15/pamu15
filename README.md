@@ -13,6 +13,10 @@ A passionate developer with strong interest in Machine Learning, Data Science, a
 - Data Visualization (Power BI, Excel)
 - Database Systems (MySQL)
 - Model Deployment (Streamlit, Flask)
+- Python
+- SQL
+- Natural Language Processing(NLP)
+- AWS cloud(basics)-IAM,S3,EC2,Lambda,Sagemaker
 
 ---
 
@@ -41,7 +45,7 @@ Built with: Python · TensorFlow · MySQL
 ### 📍 Pune Job Tracker Pulse
 Real-time job market tracker for Pune city. Tracks and visualizes live job listings across roles, companies, and locations with interactive trend analysis.
 Built with: Python · Pandas · Streamlit
-🔗 [GitHub]()
+🔗 [GitHub](https://github.com/pamu15/Pune-Job-Market-Pulse)
 https://pune-job-market-pulse-ipqbvag7ndxnnx3afwhzca.streamlit.app/
 ---
 
